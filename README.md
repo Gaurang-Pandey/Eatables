@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 3. **Open the Application:**
    Open the *index.html* file in your preferred web browser. You can simply double-click the file or use a local server if needed.
 
-![Home Page]([https://example.com/logo.png](https://www.canva.com/design/DAGgaAFFdfg/U3g_TsNG1ecj-zCcohHGrg/edit?utm_content=DAGgaAFFdfg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Home Page](https://eatables-home-page.my.canva.site/)
 
 ## Technologies Used
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) for markup.
