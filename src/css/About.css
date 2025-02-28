@@ -65,7 +65,7 @@ nav ul li:hover a {
 }
 
 section {
-    background:  url("/src/images/home-background.png") no-repeat;
+    background:  url("../images/about-background.png") no-repeat;
     height: auto;
     width: 100%;
     position: absolute;
